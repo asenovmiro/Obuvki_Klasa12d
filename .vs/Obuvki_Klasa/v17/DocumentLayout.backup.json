@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|c:\\users\\students-1212-14\\desktop\\miroslav-12d\\obuvki_klasa\\obuvki_klasa\\models\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|solutionrelative:obuvki_klasa\\models\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|c:\\users\\students-1212-14\\desktop\\miroslav-12d\\obuvki_klasa\\obuvki_klasa\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|solutionrelative:obuvki_klasa\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|c:\\users\\students-1212-14\\desktop\\miroslav-12d\\obuvki_klasa\\obuvki_klasa\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|solutionrelative:obuvki_klasa\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|c:\\users\\students-1212-14\\desktop\\miroslav-12d\\obuvki_klasa\\obuvki_klasa\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|solutionrelative:obuvki_klasa\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|c:\\users\\students-1212-14\\desktop\\miroslav-12d\\obuvki_klasa\\obuvki_klasa\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|solutionrelative:obuvki_klasa\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|c:\\users\\students-1212-14\\desktop\\miroslav-12d\\obuvki_klasa\\obuvki_klasa\\models\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|solutionrelative:obuvki_klasa\\models\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|c:\\users\\students-1212-14\\desktop\\miroslav-12d\\obuvki_klasa\\obuvki_klasa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|solutionrelative:obuvki_klasa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|c:\\users\\students-1212-14\\desktop\\miroslav-12d\\obuvki_klasa\\obuvki_klasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|solutionrelative:obuvki_klasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|c:\\users\\students-1212-14\\desktop\\miroslav-12d\\obuvki_klasa\\obuvki_klasa\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|solutionrelative:obuvki_klasa\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|c:\\users\\students-1212-14\\desktop\\miroslav-12d\\obuvki_klasa\\obuvki_klasa\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|solutionrelative:obuvki_klasa\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|c:\\users\\students-1212-14\\desktop\\miroslav-12d\\obuvki_klasa\\obuvki_klasa\\services\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|solutionrelative:obuvki_klasa\\services\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|c:\\users\\students-1212-14\\desktop\\miroslav-12d\\obuvki_klasa\\obuvki_klasa\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D562D8-8ADE-4071-BF5A-1BD84BA4B6A6}|Obuvki_Klasa\\Obuvki_Klasa.csproj|solutionrelative:obuvki_klasa\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Models\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Obuvki_Klasa\\Models\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Models\\OrdersController.cs",
+              "RelativeToolTip": "Obuvki_Klasa\\Models\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:18:43.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Models\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Obuvki_Klasa\\Models\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Models\\CategoriesController.cs",
+              "RelativeToolTip": "Obuvki_Klasa\\Models\\CategoriesController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:05:40.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Obuvki_Klasa\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Models\\Category.cs",
+              "RelativeToolTip": "Obuvki_Klasa\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:05:38.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Obuvki_Klasa\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Obuvki_Klasa\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T08:39:55.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Obuvki_Klasa\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Obuvki_Klasa\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T08:39:50.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Obuvki_Klasa\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Obuvki_Klasa\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwIAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:07:54.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Obuvki_Klasa\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Models\\Client.cs",
+              "RelativeToolTip": "Obuvki_Klasa\\Models\\Client.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:27:51.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Obuvki_Klasa\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Obuvki_Klasa\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T10:07:55.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Obuvki_Klasa\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Obuvki_Klasa\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:07:54.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Obuvki_Klasa\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Models\\Order.cs",
+              "RelativeToolTip": "Obuvki_Klasa\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:30:43.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Program.cs",
+              "RelativeDocumentMoniker": "Obuvki_Klasa\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Program.cs",
+              "RelativeToolTip": "Obuvki_Klasa\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:23:32.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Services\\ApplicationBuilderExtension.cs",
+              "RelativeDocumentMoniker": "Obuvki_Klasa\\Services\\ApplicationBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\Services\\ApplicationBuilderExtension.cs",
+              "RelativeToolTip": "Obuvki_Klasa\\Services\\ApplicationBuilderExtension.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwDYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:09:45.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

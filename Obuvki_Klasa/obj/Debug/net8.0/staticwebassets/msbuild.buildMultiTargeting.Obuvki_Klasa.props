@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Obuvki_Klasa.props" />
+</Project>
