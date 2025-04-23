@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Obuvki_Klasa.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Obuvki_Klasa.ty9z6xm12y.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Obuvki_Klasa.ruhse24as1.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\css\\site.css",
@@ -11,6 +11,38 @@
     {
       "Id": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\adddiddas.png",
+      "PackagePath": "staticwebassets\\images\\adddiddas.png"
+    },
+    {
+      "Id": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\adidas.jpg",
+      "PackagePath": "staticwebassets\\images\\adidas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\adivnas.jpg",
+      "PackagePath": "staticwebassets\\images\\adivnas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\marat.jpg",
+      "PackagePath": "staticwebassets\\images\\marat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\niiiike.jpg",
+      "PackagePath": "staticwebassets\\images\\niiiike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\nikeairmax.jpg",
+      "PackagePath": "staticwebassets\\images\\nikeairmax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\nikee.jpg",
+      "PackagePath": "staticwebassets\\images\\nikee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\nikeezelen.jpg",
+      "PackagePath": "staticwebassets\\images\\nikeezelen.jpg"
     },
     {
       "Id": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\js\\site.js",

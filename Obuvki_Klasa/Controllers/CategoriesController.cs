@@ -6,8 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Obuvki_Klasa.Data;
+using Obuvki_Klasa.Models;
 
-namespace Obuvki_Klasa.Models
+namespace Obuvki_Klasa.Controllers
 {
     public class CategoriesController : Controller
     {

@@ -1,5 +1,13 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\adddiddas.png
+wwwroot\images\adidas.jpg
+wwwroot\images\adivnas.jpg
+wwwroot\images\marat.jpg
+wwwroot\images\niiiike.jpg
+wwwroot\images\nikeairmax.jpg
+wwwroot\images\nikee.jpg
+wwwroot\images\nikeezelen.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

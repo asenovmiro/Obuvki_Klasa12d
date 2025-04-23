@@ -2,32 +2,31 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Obuvki_Klasa.Data;
+using Obuvki_Klasa.Models;
 
-namespace Obuvki_Klasa.Models
+namespace Obuvki_Klasa.Controllers
 {
-    [Authorize]
-    public class OrdersController : Controller
+    public class ProductsController : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public OrdersController(ApplicationDbContext context)
+        public ProductsController(ApplicationDbContext context)
         {
             _context = context;
         }
 
-        // GET: Orders
+        // GET: Products
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Orders.Include(o => o.Clients).Include(o => o.Products);
+            var applicationDbContext = _context.Products.Include(p => p.Categories);
             return View(await applicationDbContext.ToListAsync());
         }
 
-        // GET: Orders/Details/5
+        // GET: Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -35,45 +34,42 @@ namespace Obuvki_Klasa.Models
                 return NotFound();
             }
 
-            var order = await _context.Orders
-                .Include(o => o.Clients)
-                .Include(o => o.Products)
+            var product = await _context.Products
+                .Include(p => p.Categories)
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (order == null)
+            if (product == null)
             {
                 return NotFound();
             }
 
-            return View(order);
+            return View(product);
         }
 
-        // GET: Orders/Create
+        // GET: Products/Create
         public IActionResult Create()
         {
-            ViewData["ClientId"] = new SelectList(_context.Users, "Id", "Id");
-            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Id");
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name");
             return View();
         }
 
-        // POST: Orders/Create
+        // POST: Products/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,ClientId,ProductId,Quantity,RegistratiOn")] Order order)
+        public async Task<IActionResult> Create([Bind("Id,Name,CategoryId,Brand,Image,Description,Price,Size,RegistratiOn")] Product product)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(order);
+                _context.Add(product);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["ClientId"] = new SelectList(_context.Users, "Id", "Name", order.ClientId);
-            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Name", order.ProductId);
-            return View(order);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
+            return View(product);
         }
 
-        // GET: Orders/Edit/5
+        // GET: Products/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -81,24 +77,23 @@ namespace Obuvki_Klasa.Models
                 return NotFound();
             }
 
-            var order = await _context.Orders.FindAsync(id);
-            if (order == null)
+            var product = await _context.Products.FindAsync(id);
+            if (product == null)
             {
                 return NotFound();
             }
-            ViewData["ClientId"] = new SelectList(_context.Users, "Id", "Name", order.ClientId);
-            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Name", order.ProductId);
-            return View(order);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
+            return View(product);
         }
 
-        // POST: Orders/Edit/5
+        // POST: Products/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,ClientId,ProductId,Quantity,RegistratiOn")] Order order)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,CategoryId,Brand,Image,Description,Price,Size,RegistratiOn")] Product product)
         {
-            if (id != order.Id)
+            if (id != product.Id)
             {
                 return NotFound();
             }
@@ -107,12 +102,12 @@ namespace Obuvki_Klasa.Models
             {
                 try
                 {
-                    _context.Update(order);
+                    _context.Update(product);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!OrderExists(order.Id))
+                    if (!ProductExists(product.Id))
                     {
                         return NotFound();
                     }
@@ -123,12 +118,11 @@ namespace Obuvki_Klasa.Models
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["ClientId"] = new SelectList(_context.Users, "Id", "Name", order.ClientId);
-            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Name", order.ProductId);
-            return View(order);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
+            return View(product);
         }
 
-        // GET: Orders/Delete/5
+        // GET: Products/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -136,36 +130,35 @@ namespace Obuvki_Klasa.Models
                 return NotFound();
             }
 
-            var order = await _context.Orders
-                .Include(o => o.Clients)
-                .Include(o => o.Products)
+            var product = await _context.Products
+                .Include(p => p.Categories)
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (order == null)
+            if (product == null)
             {
                 return NotFound();
             }
 
-            return View(order);
+            return View(product);
         }
 
-        // POST: Orders/Delete/5
+        // POST: Products/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var order = await _context.Orders.FindAsync(id);
-            if (order != null)
+            var product = await _context.Products.FindAsync(id);
+            if (product != null)
             {
-                _context.Orders.Remove(order);
+                _context.Products.Remove(product);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool OrderExists(int id)
+        private bool ProductExists(int id)
         {
-            return _context.Orders.Any(e => e.Id == id);
+            return _context.Products.Any(e => e.Id == id);
         }
     }
 }

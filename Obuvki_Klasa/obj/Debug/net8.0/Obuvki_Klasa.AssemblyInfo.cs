@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Obuvki_Klasa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f7d96872878c9cef6388c1f10960533bc816226")]
 [assembly: System.Reflection.AssemblyProductAttribute("Obuvki_Klasa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Obuvki_Klasa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

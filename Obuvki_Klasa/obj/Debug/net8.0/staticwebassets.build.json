@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GzW2g86SRb6AQaemCFEoDbl74ShOpMcifwTaxUUojpc=",
+  "Hash": "ZuB4jn6OfdlkvWfdsK35ZYwWwyst7JV0b88U/ZoNcjk=",
   "Source": "Obuvki_Klasa",
   "BasePath": "_content/Obuvki_Klasa",
   "Mode": "Default",
@@ -1291,8 +1291,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "ty9z6xm12y",
-      "Integrity": "y1ja3qgUV1HK7+xITM3r6mAr0OZyz2cEU2WNJ+GVEfw=",
+      "Fingerprint": "ruhse24as1",
+      "Integrity": "Yx+roUPg7axuXkT8sYHlkjch4ytpUKdg/66q8H1f0tQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Obuvki_Klasa.styles.css"
@@ -1312,8 +1312,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "ty9z6xm12y",
-      "Integrity": "y1ja3qgUV1HK7+xITM3r6mAr0OZyz2cEU2WNJ+GVEfw=",
+      "Fingerprint": "ruhse24as1",
+      "Integrity": "Yx+roUPg7axuXkT8sYHlkjch4ytpUKdg/66q8H1f0tQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Obuvki_Klasa.bundle.scp.css"
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "1u1ap5qsxj",
+      "Integrity": "ybSA4CEJyut/gTKKKGFADw/4Fs3SLHEgGjVDv74PBqo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1359,6 +1359,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\adddiddas.png",
+      "SourceId": "Obuvki_Klasa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\",
+      "BasePath": "_content/Obuvki_Klasa",
+      "RelativePath": "images/adddiddas#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bijs4dw3km",
+      "Integrity": "PRZyFPrkVkGJFtLd3ougbIChTffNGNLNeIGuR3vW6As=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\adddiddas.png"
+    },
+    {
+      "Identity": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\adidas.jpg",
+      "SourceId": "Obuvki_Klasa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\",
+      "BasePath": "_content/Obuvki_Klasa",
+      "RelativePath": "images/adidas#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ccvffw0n80",
+      "Integrity": "bPtPlE/hsIV5NVdQ89UKJph6ZqH0n0dIQeG5UFVWoSk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\adidas.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\adivnas.jpg",
+      "SourceId": "Obuvki_Klasa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\",
+      "BasePath": "_content/Obuvki_Klasa",
+      "RelativePath": "images/adivnas#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9kyxq50et0",
+      "Integrity": "x8Tzqyp/3mnBsG+wA3BciQe9GdiiNGoVRc/V1dKDi1s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\adivnas.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\marat.jpg",
+      "SourceId": "Obuvki_Klasa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\",
+      "BasePath": "_content/Obuvki_Klasa",
+      "RelativePath": "images/marat#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i6bfbvktl1",
+      "Integrity": "Wi2S3kOj7RRjol92Clx3FYW44BfRHuxZvNBbVrvQkdw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\marat.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\niiiike.jpg",
+      "SourceId": "Obuvki_Klasa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\",
+      "BasePath": "_content/Obuvki_Klasa",
+      "RelativePath": "images/niiiike#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z80bcxswhl",
+      "Integrity": "/bnSlg8Pb8PRBsFEbfidoJZ0RUBACphn5Oy3t5nb+g4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\niiiike.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\nikeairmax.jpg",
+      "SourceId": "Obuvki_Klasa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\",
+      "BasePath": "_content/Obuvki_Klasa",
+      "RelativePath": "images/nikeairmax#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q2w3w2qis9",
+      "Integrity": "Ik305aioTS871Eh3VloaBlWgKF27eJ2GYDgbYZUrMgc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\nikeairmax.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\nikee.jpg",
+      "SourceId": "Obuvki_Klasa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\",
+      "BasePath": "_content/Obuvki_Klasa",
+      "RelativePath": "images/nikee#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kzteeh6869",
+      "Integrity": "UKEc7RRMHV5Oqy/FY28i8fZcWewo5uTg1Lur/QDTAUo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\nikee.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\nikeezelen.jpg",
+      "SourceId": "Obuvki_Klasa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\",
+      "BasePath": "_content/Obuvki_Klasa",
+      "RelativePath": "images/nikeezelen#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rs683g57vf",
+      "Integrity": "lfjohPvhbbmKGaLE1kDXcfNi0lN/5s3sSr1oH/5+NRs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\nikeezelen.jpg"
     },
     {
       "Identity": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\js\\site.js",
@@ -2581,7 +2749,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
+      "Route": "css/site.1u1ap5qsxj.css",
       "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2591,7 +2759,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "2772"
         },
         {
           "Name": "Content-Type",
@@ -2599,11 +2767,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"ybSA4CEJyut/gTKKKGFADw/4Fs3SLHEgGjVDv74PBqo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 10:20:06 GMT"
+          "Value": "Wed, 02 Apr 2025 05:39:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2613,7 +2781,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "1u1ap5qsxj"
         },
         {
           "Name": "label",
@@ -2621,7 +2789,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-ybSA4CEJyut/gTKKKGFADw/4Fs3SLHEgGjVDv74PBqo="
         }
       ]
     },
@@ -2636,7 +2804,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "2772"
         },
         {
           "Name": "Content-Type",
@@ -2644,11 +2812,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"ybSA4CEJyut/gTKKKGFADw/4Fs3SLHEgGjVDv74PBqo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 10:20:06 GMT"
+          "Value": "Wed, 02 Apr 2025 05:39:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2658,7 +2826,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-ybSA4CEJyut/gTKKKGFADw/4Fs3SLHEgGjVDv74PBqo="
         }
       ]
     },
@@ -4961,6 +5129,662 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "images/adddiddas.bijs4dw3km.png",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\adddiddas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "375281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PRZyFPrkVkGJFtLd3ougbIChTffNGNLNeIGuR3vW6As=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bijs4dw3km"
+        },
+        {
+          "Name": "label",
+          "Value": "images/adddiddas.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRZyFPrkVkGJFtLd3ougbIChTffNGNLNeIGuR3vW6As="
+        }
+      ]
+    },
+    {
+      "Route": "images/adddiddas.png",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\adddiddas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "375281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PRZyFPrkVkGJFtLd3ougbIChTffNGNLNeIGuR3vW6As=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRZyFPrkVkGJFtLd3ougbIChTffNGNLNeIGuR3vW6As="
+        }
+      ]
+    },
+    {
+      "Route": "images/adidas.ccvffw0n80.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\adidas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bPtPlE/hsIV5NVdQ89UKJph6ZqH0n0dIQeG5UFVWoSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ccvffw0n80"
+        },
+        {
+          "Name": "label",
+          "Value": "images/adidas.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bPtPlE/hsIV5NVdQ89UKJph6ZqH0n0dIQeG5UFVWoSk="
+        }
+      ]
+    },
+    {
+      "Route": "images/adidas.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\adidas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bPtPlE/hsIV5NVdQ89UKJph6ZqH0n0dIQeG5UFVWoSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bPtPlE/hsIV5NVdQ89UKJph6ZqH0n0dIQeG5UFVWoSk="
+        }
+      ]
+    },
+    {
+      "Route": "images/adivnas.9kyxq50et0.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\adivnas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x8Tzqyp/3mnBsG+wA3BciQe9GdiiNGoVRc/V1dKDi1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9kyxq50et0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/adivnas.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x8Tzqyp/3mnBsG+wA3BciQe9GdiiNGoVRc/V1dKDi1s="
+        }
+      ]
+    },
+    {
+      "Route": "images/adivnas.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\adivnas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x8Tzqyp/3mnBsG+wA3BciQe9GdiiNGoVRc/V1dKDi1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x8Tzqyp/3mnBsG+wA3BciQe9GdiiNGoVRc/V1dKDi1s="
+        }
+      ]
+    },
+    {
+      "Route": "images/marat.i6bfbvktl1.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\marat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wi2S3kOj7RRjol92Clx3FYW44BfRHuxZvNBbVrvQkdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i6bfbvktl1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/marat.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wi2S3kOj7RRjol92Clx3FYW44BfRHuxZvNBbVrvQkdw="
+        }
+      ]
+    },
+    {
+      "Route": "images/marat.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\marat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wi2S3kOj7RRjol92Clx3FYW44BfRHuxZvNBbVrvQkdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wi2S3kOj7RRjol92Clx3FYW44BfRHuxZvNBbVrvQkdw="
+        }
+      ]
+    },
+    {
+      "Route": "images/niiiike.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\niiiike.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/bnSlg8Pb8PRBsFEbfidoJZ0RUBACphn5Oy3t5nb+g4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/bnSlg8Pb8PRBsFEbfidoJZ0RUBACphn5Oy3t5nb+g4="
+        }
+      ]
+    },
+    {
+      "Route": "images/niiiike.z80bcxswhl.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\niiiike.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/bnSlg8Pb8PRBsFEbfidoJZ0RUBACphn5Oy3t5nb+g4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z80bcxswhl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/niiiike.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/bnSlg8Pb8PRBsFEbfidoJZ0RUBACphn5Oy3t5nb+g4="
+        }
+      ]
+    },
+    {
+      "Route": "images/nikeairmax.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\nikeairmax.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ik305aioTS871Eh3VloaBlWgKF27eJ2GYDgbYZUrMgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ik305aioTS871Eh3VloaBlWgKF27eJ2GYDgbYZUrMgc="
+        }
+      ]
+    },
+    {
+      "Route": "images/nikeairmax.q2w3w2qis9.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\nikeairmax.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ik305aioTS871Eh3VloaBlWgKF27eJ2GYDgbYZUrMgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q2w3w2qis9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/nikeairmax.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ik305aioTS871Eh3VloaBlWgKF27eJ2GYDgbYZUrMgc="
+        }
+      ]
+    },
+    {
+      "Route": "images/nikee.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\nikee.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UKEc7RRMHV5Oqy/FY28i8fZcWewo5uTg1Lur/QDTAUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UKEc7RRMHV5Oqy/FY28i8fZcWewo5uTg1Lur/QDTAUo="
+        }
+      ]
+    },
+    {
+      "Route": "images/nikee.kzteeh6869.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\nikee.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UKEc7RRMHV5Oqy/FY28i8fZcWewo5uTg1Lur/QDTAUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kzteeh6869"
+        },
+        {
+          "Name": "label",
+          "Value": "images/nikee.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UKEc7RRMHV5Oqy/FY28i8fZcWewo5uTg1Lur/QDTAUo="
+        }
+      ]
+    },
+    {
+      "Route": "images/nikeezelen.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\nikeezelen.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lfjohPvhbbmKGaLE1kDXcfNi0lN/5s3sSr1oH/5+NRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lfjohPvhbbmKGaLE1kDXcfNi0lN/5s3sSr1oH/5+NRs="
+        }
+      ]
+    },
+    {
+      "Route": "images/nikeezelen.rs683g57vf.jpg",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\wwwroot\\images\\nikeezelen.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lfjohPvhbbmKGaLE1kDXcfNi0lN/5s3sSr1oH/5+NRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 06:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rs683g57vf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/nikeezelen.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lfjohPvhbbmKGaLE1kDXcfNi0lN/5s3sSr1oH/5+NRs="
         }
       ]
     },
@@ -9731,7 +10555,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "1109"
         },
         {
           "Name": "Content-Type",
@@ -9739,11 +10563,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y1ja3qgUV1HK7+xITM3r6mAr0OZyz2cEU2WNJ+GVEfw=\""
+          "Value": "\"Yx+roUPg7axuXkT8sYHlkjch4ytpUKdg/66q8H1f0tQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 08:12:27 GMT"
+          "Value": "Wed, 26 Mar 2025 07:20:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9753,7 +10577,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y1ja3qgUV1HK7+xITM3r6mAr0OZyz2cEU2WNJ+GVEfw="
+          "Value": "sha256-Yx+roUPg7axuXkT8sYHlkjch4ytpUKdg/66q8H1f0tQ="
+        }
+      ]
+    },
+    {
+      "Route": "Obuvki_Klasa.ruhse24as1.bundle.scp.css",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Obuvki_Klasa.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yx+roUPg7axuXkT8sYHlkjch4ytpUKdg/66q8H1f0tQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 07:20:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ruhse24as1"
+        },
+        {
+          "Name": "label",
+          "Value": "Obuvki_Klasa.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yx+roUPg7axuXkT8sYHlkjch4ytpUKdg/66q8H1f0tQ="
+        }
+      ]
+    },
+    {
+      "Route": "Obuvki_Klasa.ruhse24as1.styles.css",
+      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Obuvki_Klasa.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yx+roUPg7axuXkT8sYHlkjch4ytpUKdg/66q8H1f0tQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 07:20:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ruhse24as1"
+        },
+        {
+          "Name": "label",
+          "Value": "Obuvki_Klasa.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yx+roUPg7axuXkT8sYHlkjch4ytpUKdg/66q8H1f0tQ="
         }
       ]
     },
@@ -9768,7 +10682,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "1109"
         },
         {
           "Name": "Content-Type",
@@ -9776,11 +10690,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y1ja3qgUV1HK7+xITM3r6mAr0OZyz2cEU2WNJ+GVEfw=\""
+          "Value": "\"Yx+roUPg7axuXkT8sYHlkjch4ytpUKdg/66q8H1f0tQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 08:12:27 GMT"
+          "Value": "Wed, 26 Mar 2025 07:20:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9790,97 +10704,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y1ja3qgUV1HK7+xITM3r6mAr0OZyz2cEU2WNJ+GVEfw="
-        }
-      ]
-    },
-    {
-      "Route": "Obuvki_Klasa.ty9z6xm12y.bundle.scp.css",
-      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Obuvki_Klasa.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1130"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y1ja3qgUV1HK7+xITM3r6mAr0OZyz2cEU2WNJ+GVEfw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 08:12:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ty9z6xm12y"
-        },
-        {
-          "Name": "label",
-          "Value": "Obuvki_Klasa.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-y1ja3qgUV1HK7+xITM3r6mAr0OZyz2cEU2WNJ+GVEfw="
-        }
-      ]
-    },
-    {
-      "Route": "Obuvki_Klasa.ty9z6xm12y.styles.css",
-      "AssetFile": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Miroslav-12D\\Obuvki_Klasa\\Obuvki_Klasa\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Obuvki_Klasa.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1130"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y1ja3qgUV1HK7+xITM3r6mAr0OZyz2cEU2WNJ+GVEfw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 08:12:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ty9z6xm12y"
-        },
-        {
-          "Name": "label",
-          "Value": "Obuvki_Klasa.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-y1ja3qgUV1HK7+xITM3r6mAr0OZyz2cEU2WNJ+GVEfw="
+          "Value": "sha256-Yx+roUPg7axuXkT8sYHlkjch4ytpUKdg/66q8H1f0tQ="
         }
       ]
     }

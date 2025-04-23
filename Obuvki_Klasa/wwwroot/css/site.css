@@ -1,22 +1,130 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
+/* Основни стилове за страницата */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
-  margin-bottom: 60px;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #dbe9f4, #a1c4fd); /* Синьо-сива цветова гама */
+    color: #222; /* По-тъмен текст за по-добра видимост */
+    line-height: 1.6;
 }
+
+/* Стилове за навигацията */
+header {
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    padding: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 2em;
+    font-weight: bold;
+    color: #fff;
+}
+
+.nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+    .nav ul li {
+        margin: 0 20px;
+    }
+
+        .nav ul li a {
+            text-decoration: none;
+            color: #fff;
+            font-weight: bold;
+            padding: 10px 20px;
+            font-size: 1.2em;
+            transition: background-color 0.3s ease, color 0.3s ease;
+            border-radius: 8px;
+        }
+
+            .nav ul li a:hover {
+                background-color: #f1c40f;
+                color: #222;
+            }
+
+/* Заглавие */
+h1 {
+    text-align: center;
+    margin: 30px 0;
+    font-size: 2.5em;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Галерия със снимки на обувки */
+.shoe-gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.shoe-item {
+    background: linear-gradient(to bottom, #ffffff, #d9e2ec);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 22%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #222; /* По-добър контраст за текстовете */
+}
+
+    .shoe-item img {
+        width: 100%;
+        border-radius: 8px;
+        transition: transform 0.3s ease;
+    }
+
+    .shoe-item:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    .shoe-item img:hover {
+        transform: scale(1.1);
+    }
+
+h2 {
+    font-size: 1.5em;
+    margin: 10px 0;
+    color: #222; /* По-добра четимост */
+}
+
+.price {
+    font-size: 1.2em;
+    color: #f1c40f;
+    font-weight: bold;
+}
+
+/* Footer */
+footer {
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 0.9em;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+}
+

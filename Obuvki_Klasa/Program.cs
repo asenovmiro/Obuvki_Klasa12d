@@ -24,7 +24,7 @@ public class Program
             .AddDefaultTokenProviders();
            
         builder.Services.AddControllersWithViews();
-
+        builder.Services.AddControllers(x => x.SuppressImplicitRequiredAttributeForNonNullableReferenceTypes = true);
         var app = builder.Build();
 
         //!!! START na kradenoto ot BELEZIREVA 
